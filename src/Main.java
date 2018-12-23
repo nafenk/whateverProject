@@ -14,9 +14,9 @@ public class Main {
             System.out.println("what are you doing?");
             String action = mspacman.nextLine();
             if (action.equals("studying"))
-                System.out.println("you nerd, get a life");
+                System.out.println("you nerd, get a life haha just kidding, good job");
             else {
-                System.out.println("stop procrastinating and start studying ");
+                System.out.println("stop procrastinating and start studying for exams especially for the RE course");
 
             }
 
