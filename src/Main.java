@@ -16,7 +16,7 @@ public class Main {
             if (action.equals("studying"))
                 System.out.println("you nerd, get a life haha just kidding, good job");
             else {
-                System.out.println("stop procrastinating and start studying ");
+                System.out.println("stop procrastinating and start studying for exams");
 
             }
 
