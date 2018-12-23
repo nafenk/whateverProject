@@ -8,7 +8,7 @@ public class Main {
         System.out.println("hey whatsup!! ");
         String greetings = mspacman.nextLine();
         if(!greetings.equals("hi")){
-            System.out.println("dude don't be rude");
+            System.out.println("dude don't be rude!");
         }
 
     }
