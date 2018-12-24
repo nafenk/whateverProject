@@ -9,7 +9,7 @@ public class Main {
         String greetings = mspacman.nextLine();
 
         if (!greetings.equals("hi")) {
-            System.out.println("dude don't be rude!");
+            System.out.println("dude don't be rude");
         } else if (greetings.equals("hi")) {
             System.out.println("what are you doing?");
             String action = mspacman.nextLine();
